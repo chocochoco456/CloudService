@@ -10,3 +10,4 @@
 
 - git remote -v (지금 이 폴더가 어디(URL)랑 연결되어 있는지 별명과 함께 보여줘!/내가 지금 이 폴더를 어느 깃허브 주소랑 연결해놨더라?)
 - git push -u origin main (
+- git push
