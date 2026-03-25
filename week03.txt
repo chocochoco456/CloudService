@@ -9,4 +9,4 @@
 - git log (커밋 보기 확인(업데이트)/커밋 해시코드 확인)
 - git checkout 해시코드 7자리(or전체) (커밋으로 시간여행(세이브포인트))
 - git config --global user.email "사용자 이메일 주소" (깃 사용자 아이디 등록)
-- git config --global user.name "사용자 필명" (깃 사용자 필명 등록)
+- git config --global user.name "사용자 필명" (깃 사용자 필명 등록) 

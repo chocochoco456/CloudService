@@ -2,7 +2,7 @@
 - 깃허브 계정 생성
 - 로컬 리포지토리랑 원격 리포지토리 동기화(업로드)
 
- git branch -M main (마스터 -> 메인 브랜치로 변경) (master 없을 시 git checkout -)
+- git branch -M main (마스터 -> 메인 브랜치로 변경) (master 없을 시 git checkout -)
 - git remote add origin https://github.com/chocochoco456/CloudService.git 
 
 *local <-> remote(원격)
