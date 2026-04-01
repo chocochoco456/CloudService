@@ -8,3 +8,15 @@ vi편집기 화면이 나타나면
 j (아래로)
 k (위로)
 q (작업 종료/빠져나가기)
+
+다른 사람의 원격리포지토리를 클론 후 새파일 추가 또는 기존파일 편집 후 로컬리포지토리에 커밋
+
+원 저작자의 바인딩된 원격리포지토리 주소를 내 원격리포지토리 주소로 업데이트
+
+git remote -v (확인)
+git remote remove origin (origin 주소를 삭제)
+git remote add origin 내가 만든 원격 리포지토리 주소 
+git remote -v (확인)
+업로드 git push -> 오류발생? (새로 만든 깃 리포지토리 주소와 바인딩 필요)
+git push -u origin main (업로드)
+git log (코드 옆 헤드->메인, 오리진/메인 위치 확인)
