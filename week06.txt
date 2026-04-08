@@ -8,3 +8,8 @@ git pull (=/git push)
 git log --oneline --graph
 
 week06.txt 파일 자동 머지 실패 -> 수동 conflict 해결
+
+*에디터 화면
+i (입력 모드)
+ESC (복귀) 
+: (명령 모드)
