@@ -3,8 +3,8 @@
 git log --oneline (커밋을 한 줄에 보기)
 
 <깃/깃허브 충돌 해결> 
-git fetch (
+git fetch 
 git pull (=/git push)
+git log --oneline --graph
 
-리눅스 명령어 
-cat
+week06.txt 파일 자동 머지 실패 -> 수동 conflict 해결
