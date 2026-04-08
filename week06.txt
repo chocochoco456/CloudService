@@ -3,3 +3,8 @@
 git log --oneline (커밋을 한 줄에 보기)
 
 <깃/깃허브 충돌 해결> 
+git fetch (
+git pull (=/git push)
+
+리눅스 명령어 
+cat
