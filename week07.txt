@@ -7,3 +7,5 @@ amend 옵션
 
 git commit -m "클라우드 서비스..
 git commit --amend -m "클라우드 서비스..
+
+..
