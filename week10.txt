@@ -1,0 +1,9 @@
+1교시 
+9주차 수업 복습 및 코엑스관련 공지
+
+2교시
+브랜치 삭제 
+git branch -d 브랜치이름
+
+브랜치 삭제(remote) 
+git push origin --delete 브랜치이름 
